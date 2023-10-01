@@ -1,0 +1,200 @@
+{
+    "heroTitle": "Welcome to the Hub",
+    "heroSubtitle": "Lorum IpsuumDolor sit amet, consectetu",
+    "filePickerResult": {
+        "fileAbsoluteUrl": "https://cdn.hubblecontent.osi.office.net/m365content/publish/000c7043-c877-4067-88b4-cc3aecb04241/1372481998.jpg",
+        "fileName": "1372481998.jpg",
+        "fileNameWithoutExtension": "1372481998"
+    },
+    "links": [
+        {
+            "uniqueId": "a27e3562-e22d-4e09-b4e9-046862052ba0",
+            "Title": "Documents",
+            "Url": "https://google.com",
+            "Icon": "IoDocumentTextOutline",
+            "sortIdx": 1
+        },
+        {
+            "uniqueId": "c00f480e-732b-4adf-8ab5-fd23121d7af7",
+            "Title": "Contacts",
+            "Url": "https://google.com",
+            "Icon": "FaPhoneAlt",
+            "sortIdx": 2
+        },
+        {
+            "uniqueId": "00af9e1c-0535-4cba-86a4-9533ac56fe30",
+            "Title": "Investigation",
+            "Url": "https://google.com",
+            "Icon": "FaMagnifyingGlass",
+            "sortIdx": 3
+        },
+        {
+            "uniqueId": "2322bacb-e6e8-4911-bdc5-6e7623e1eb44",
+            "Title": "Flights",
+            "Url": "https://google.com",
+            "Icon": "FaPlane",
+            "sortIdx": 4
+        },
+        {
+            "uniqueId": "def2b9cd-5b4c-4645-b168-99c0d7210aa8",
+            "Title": "Facilities",
+            "Url": "https://google.com",
+            "Icon": "FaCity",
+            "sortIdx": 5
+        },
+        {
+            "uniqueId": "0f405d0b-b3bd-4518-9104-629cf2ed719f",
+            "Title": "Research",
+            "Url": "https://google.com",
+            "Icon": "RiSurveyLine",
+            "sortIdx": 6
+        }
+    ],
+    "docs": [
+        {
+            "uniqueId": "7a837ce1-05f6-4745-a6f7-308545a31cbc",
+            "Title": "Document 1",
+            "Url": "https://google.com",
+            "sortIdx": 1
+        },
+        {
+            "uniqueId": "b53dab95-81b1-48d2-ba26-8b72e3ce9fc1",
+            "Title": "Document 2",
+            "Url": "https://google.com",
+            "sortIdx": 2
+        }
+    ],
+    "news": [
+        {
+            "uniqueId": "be27d3a4-d854-4d93-9ee8-039fa6e9c291",
+            "Title": "News Item 1",
+            "Date": "23/09/2023",
+            "Image": "https://placehold.co/156x140/EEE/31343C",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sortIdx": 1
+        },
+        {
+            "uniqueId": "85a10682-6d0c-4cee-a57f-3922c33a82b2",
+            "Title": "News Item 1",
+            "Date": "23/09/2023",
+            "Image": "https://placehold.co/156x140/EEE/31343C",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sortIdx": 2
+        }
+    ],
+    "events": [
+        {
+            "uniqueId": "fddc3458-0fbb-442c-91a1-b20624a9810c",
+            "Title": "Event 1",
+            "Date": "09/08/2023",
+            "Time": "8:00-10:00AM",
+            "sortIdx": 1
+        },
+        {
+            "uniqueId": "1f560e18-f0e4-44be-ab50-fc29e8b9be89",
+            "Title": "Event 2",
+            "Date": "09/08/2023",
+            "Time": "9:00-10:00AM",
+            "sortIdx": 2
+        }
+    ],
+    "sliderItemsNews": [
+        {
+            "uniqueId": "690ec45d-2982-46ca-80d2-a9d34f5f6799",
+            "Title": "News Slider Title",
+            "Subtitle": "Category Title",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "Image": "https://placehold.co/700x700/EEE/31343C",
+            "Url": "https://google.com",
+            "Button": "Read More",
+            "sortIdx": 1,
+            "Date": "20/08/2023"
+        },
+        {
+            "uniqueId": "6e4e0bfc-6aac-4812-9ccb-c97bb9e6bcab",
+            "Title": "News Slider Title 2",
+            "Subtitle": "Category Title",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "Image": "https://placehold.co/700x700/EEE/31343C",
+            "Url": "https://google.com",
+            "Button": "Read More",
+            "sortIdx": 2,
+            "Date": "20/08/2023"
+        },
+        {
+            "uniqueId": "7e43f78f-76ff-4a67-a3e6-ef1bd748b570",
+            "Title": "News Slider Title 3",
+            "Date": "20/08/2023",
+            "Subtitle": "Category Title",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "Image": "https://placehold.co/700x700/EEE/31343C",
+            "Url": "https://google.com",
+            "Button": "Read More",
+            "sortIdx": 3
+        }
+    ],
+    "sliderItemsMisc": [
+        {
+            "uniqueId": "e8d3d85a-d0cc-4bed-babe-12ca2c36764b",
+            "Title": "John Doe",
+            "Subtitle": "Employee of the month",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "sortIdx": 1,
+            "Image": "https://placehold.co/700x700/EEE/31343C"
+        },
+        {
+            "uniqueId": "c7a1941c-f9f3-4cb0-9824-08235c6f72c7",
+            "Title": "Bob Ro",
+            "Subtitle": "Employee of the month",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "sortIdx": 2,
+            "Image": "https://placehold.co/700x700/EEE/31343C"
+        },
+        {
+            "uniqueId": "3dda9e74-d454-4baf-9dac-b3158ece9faa",
+            "Title": "Kate Hudson",
+            "Subtitle": "Employee of the month",
+            "Image": "https://placehold.co/700x700/EEE/31343C",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce",
+            "sortIdx": 3
+        }
+    ],
+    "quickLinkButtonTitle": "See All Links",
+    "quickLinkButtonUrl": "#",
+    "documentButtonTitle": "See All Documents",
+    "documentButtonUrl": "#",
+    "newsButtonTitle": "See all documents",
+    "newsButtonUrl": "#",
+    "eventsButtonTitle": "See all Events",
+    "eventsButtonUrl": "#",
+    "socialTitle": "Follow Us",
+    "social": [
+        {
+            "uniqueId": "02bed81d-6e8b-4493-9bed-9178c62a7d14",
+            "Url": "https://twitter.com",
+            "Icon": "FaSquareXTwitter",
+            "sortIdx": 1
+        },
+        {
+            "uniqueId": "3cbc1be9-816d-4e94-9d02-a9d8aca7e2d8",
+            "Url": "https://facebook.com",
+            "Icon": "FaFacebookSquare",
+            "sortIdx": 2
+        },
+        {
+            "uniqueId": "e38ea0c3-d93f-4c04-add8-6d4057c98fd0",
+            "Url": "https://www.linkedin.com/",
+            "Icon": "FaLinkedin",
+            "sortIdx": 3
+        }
+    ],
+    "ctaTitle": "Book Meeting Room",
+    "ctaDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis suscipit nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget est id sem convallis luctus. Fusce Lorem ipsum ",
+    "ctaImage": {
+        "fileAbsoluteUrl": "https://cdn.hubblecontent.osi.office.net/m365content/publish/000c7043-c877-4067-88b4-cc3aecb04241/1372481998.jpg",
+        "fileName": "1372481998.jpg",
+        "fileNameWithoutExtension": "1372481998"
+    },
+    "ctaButtonTitle": "Book Online",
+    "ctaButtonUrl": "#"
+}
